@@ -9,7 +9,7 @@ public class Test2 implements Comparable<String>{
         System.out.println(stu.hashCode());
         System.out.println(stu1.hashCode());
         System.out.println("1234");
-        System.out.println("1234rgfdg123d");
+        System.out.println("1");
     }
 
     @Override
