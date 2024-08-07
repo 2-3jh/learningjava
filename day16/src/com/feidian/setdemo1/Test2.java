@@ -8,7 +8,6 @@ public class Test2 implements Comparable<String>{
         Student stu1=new Student("zhang");
         System.out.println(stu.hashCode());
         System.out.println(stu1.hashCode());
-        HashSet<String>;
     }
 
     @Override
